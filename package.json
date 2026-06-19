@@ -1,0 +1,17 @@
+{
+  "name": "@snapback-integrations/ai-copilot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Open the project in VS Code with Copilot ready to pick up the tasks.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@lockethq/snapback-sdk": "^0.1.2",
+    "@types/node": "^22.9.0",
+    "esbuild": "^0.24.0",
+    "typescript": "^5.6.3"
+  }
+}
