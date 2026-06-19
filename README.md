@@ -1,6 +1,6 @@
 # Copilot
 
-A Snapback integration (`com.focus.ai.copilot`). Open the project in VS Code with Copilot ready to pick up the tasks.
+A Snapback integration (`sh.snapback.ai.copilot`). Open the project in VS Code with Copilot ready to pick up the tasks.
 
 ## Build
 
